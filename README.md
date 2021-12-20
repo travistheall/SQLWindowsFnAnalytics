@@ -16,6 +16,9 @@
   <li>GROUPING SETS(), ROLLUP(), & CUBE()</li>
 </ol>
 
+<h3>Certificate</h3>
+<a href="https://www.coursera.org/verify/NVZ5KLQYFGPF">Verify Cert</a>
+
 <h3>References</h3>
 <ul>
   <li>
